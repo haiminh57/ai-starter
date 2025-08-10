@@ -1,9 +1,14 @@
 # ai-starter
-Đại học Kinh Tế, TP.HCM, Việt Nam\n
-[2025-08] AI CLASS\n
-Giảng viên: Đỗ Như Tài\n
-Học sinh: Trần Hải Minh\n
-Nội dung: Làm quen với AI\n
+Đại học Kinh Tế, TP.HCM, Việt Nam
+
+[2025-08] AI CLASS
+
+Giảng viên: Đỗ Như Tài
+
+Học sinh: Trần Hải Minh
+
+Nội dung: Làm quen với AI
+
 
 # App-Inventor
 # Tham khảo
